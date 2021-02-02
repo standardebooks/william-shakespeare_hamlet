@@ -27,8 +27,7 @@
 /* End dramatis personae */
 
 /* Play */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -85,6 +84,28 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 /* End play */
+
+/* Verse */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+/* End verse */
 
 /* Dialogue */
 tr.together{
