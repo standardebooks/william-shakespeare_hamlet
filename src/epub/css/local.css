@@ -85,27 +85,34 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End play */
 
-/* Verse */
-[epub|type~="z3998:verse"] p{
+/* Verse, song */
+[epub|type~="z3998:verse"] p,
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:verse"] p > span,
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:verse"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
+}
+
+[epub|type~="z3998:song"] p + p{
+	margin-top: 1em;
 }
 
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
-/* End verse */
+/* End verse, song */
 
 /* Dialogue */
 tr.together{
@@ -117,14 +124,8 @@ tr.together td{
 	vertical-align: middle;
 }
 
-tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
