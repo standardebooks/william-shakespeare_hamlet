@@ -54,15 +54,16 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008114818</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Not only was &lt;i&gt;Hamlet&lt;/i&gt; one of William Shakespeare’s most popular works during his lifetime it is also considered among the most powerful and influential works of world literature. The line “To be, or not to be” from one of Hamlet’s soliloquies is one of the most widely known and quoted lines in modern English and has been referenced in countless works of literature, theater, film, and music.&lt;/p&gt;
+			&lt;p&gt;During a dark winter night Horatio and a pair of watchmen encounter a ghost that resembles the late King of Denmark and father of Prince Hamlet. After failing to converse with the ghost, Hamlet is brought to the site of the encounter. The ghost tells the story of his death: King Claudius, the dead king’s brother, mudered him. Hamlet vows to avenge his death.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/hamlet/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
-		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
+		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition. Emendations are provided by the Open Source Shakespeare edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hamlet</meta>
