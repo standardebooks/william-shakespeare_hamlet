@@ -57,7 +57,7 @@
 		<dc:description id="description">The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Not only was &lt;i&gt;Hamlet&lt;/i&gt; one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare’s&lt;/a&gt; most popular works during his lifetime it is also considered among the most powerful and influential works of world literature. The line “To be, or not to be” from one of Hamlet’s soliloquies is one of the most widely known and quoted lines in modern English and has been referenced in countless works of literature, theater, film, and music.&lt;/p&gt;
-			&lt;p&gt;During a dark winter night Horatio and a pair of watchmen encounter a ghost that resembles the late King of Denmark and father of Prince Hamlet. After failing to converse with the ghost, Hamlet is brought to the site of the encounter. The ghost tells the story of his death: King Claudius, the dead king’s brother, mudered him. Hamlet vows to avenge his death.&lt;/p&gt;
+			&lt;p&gt;During a dark winter night Horatio and a pair of watchmen encounter a ghost that resembles the late King of Denmark and father of Prince Hamlet. After failing to converse with the ghost, Hamlet is brought to the site of the encounter. The ghost tells the story of his death. He was murdered by King Claudius, the dead king’s brother and Hamlet’s new step-father. Hamlet swears to avenge him and kill Claudius.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
