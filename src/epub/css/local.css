@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
-}
-
 /* Dramatis personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
@@ -136,3 +132,14 @@ tr.together td + td{
 	padding-left: .5em;
 }
 /* End dialogue */
+
+/* Letter */
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* End letter */
