@@ -54,6 +54,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008114818</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">8</meta>
 		<dc:description id="description">The ghost of the King of Denmark tells his son, Hamlet, to avenge his death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Not only was &lt;i&gt;Hamlet&lt;/i&gt; one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare’s&lt;/a&gt; most popular works during his lifetime, it is also considered among the most powerful and influential works of world literature. “To be, or not to be,” a line from one of Hamlet’s soliloquies, is one of the most widely known quotes in modern English and has been referenced in countless works of literature, theater, film, and music.&lt;/p&gt;
