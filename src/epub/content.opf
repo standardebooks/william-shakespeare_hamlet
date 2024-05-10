@@ -70,7 +70,7 @@
 		<dc:source>https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=hamlet</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition. Emendations to Hamlet are provided by Open Source Shakespeare.</meta>
 		<meta property="se:word-count">32555</meta>
-		<meta property="se:reading-ease.flesch">80.72</meta>
+		<meta property="se:reading-ease.flesch">80.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hamlet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_hamlet</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
