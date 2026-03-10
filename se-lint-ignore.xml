@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="act-5.xhtml">
 		<ignore code="y-012">
+			<line>889</line>
 			<reason>Matched text has quotes for clarity.</reason>
 		</ignore>
 	</file>
